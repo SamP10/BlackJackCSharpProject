@@ -1,0 +1,14 @@
+/Users/splant/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject
+/Users/splant/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/splant/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/splant/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/splant/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/splant/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
