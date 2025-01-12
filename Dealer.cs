@@ -1,5 +1,6 @@
-public class Dealer {
+public class Dealer : IPlayer {
     private Deck deck;
+
     public Dealer(Deck deck) {
         this.deck = deck;
         ShuffleDeck();
@@ -11,5 +12,11 @@ public class Dealer {
 
     public Deck GetDeck() {
         return deck;
+    }
+
+    public Card Deal() {
+        Card card = deck.cards[0];
+        deck.cards.RemoveAt(0);  
+        return card;
     }
 }

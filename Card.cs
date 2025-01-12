@@ -9,7 +9,7 @@ public class Card {
         this.value = value;
     }
 
-    public string GetCard() {
-        return $"{this.face} {this.suit}";
+    public override string ToString() {
+        return $"{this.face} of {this.suit}";
     }
 }

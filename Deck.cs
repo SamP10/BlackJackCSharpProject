@@ -1,5 +1,3 @@
-using System.Runtime.ConstrainedExecution;
-
 public class Deck {
     public List<Card> cards = new List<Card>();
     private string[] suits = ["♣️", "♠️", "♥", "♦"];
